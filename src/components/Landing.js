@@ -6,16 +6,10 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from "react-responsive-carousel";
-import React, { useEffect } from "react";
-import tick from "../imgs/tick.png";
-import { Contact1 } from "../imgs/Contact1.png";
-import { Contact } from "../imgs/Contact.png";
-import { Contact2 } from "../imgs/Contact2.png";
+import React from "react";
 import accuracy from "../icons/accuracy.png";
-import demo from "../demo/demo.mp4";
 import animalspotting from "../icons/animal-spotting.png";
 import easeofuse from "../icons/ease-of-use.png";
-import offenceregistration from "../icons/offence-registration.png";
 import savesmanuallabour from "../icons/saves-manual-labour.png";
 import speciesidentification from "../icons/species-identification.png";
 import JeevRakshak from "../imgs/JeevRakshak.png";
@@ -25,7 +19,6 @@ import MobileNetSSD from "../imgs/MobileNetSSD.png";
 import Species from "../imgs/Species-Identification.png";
 import SSD from "../imgs/SSD.png";
 import Classify from "./Classify";
-import Detect from "./Detect";
 import react from "./logoicons/react.png";
 import tf from "./logoicons/tf.png";
 import keras from "./logoicons/keras.png";
@@ -33,8 +26,6 @@ import colab from "./logoicons/colab.png";
 import MultiCarousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
-//EmailJS
-import emailjs from "@emailjs/browser";
 
 const responsive = {
   superLargeDesktop: {
