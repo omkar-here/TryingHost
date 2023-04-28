@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/jeev-rakshak/static/css/main.095347a0.chunk.css",
+    "main.js": "/jeev-rakshak/static/js/main.652f3280.chunk.js",
+    "main.js.map": "/jeev-rakshak/static/js/main.652f3280.chunk.js.map",
+    "runtime-main.js": "/jeev-rakshak/static/js/runtime-main.5e2d25b1.js",
+    "runtime-main.js.map": "/jeev-rakshak/static/js/runtime-main.5e2d25b1.js.map",
+    "static/css/2.e9c0e2c3.chunk.css": "/jeev-rakshak/static/css/2.e9c0e2c3.chunk.css",
+    "static/js/2.a62c4bd9.chunk.js": "/jeev-rakshak/static/js/2.a62c4bd9.chunk.js",
+    "static/js/2.a62c4bd9.chunk.js.map": "/jeev-rakshak/static/js/2.a62c4bd9.chunk.js.map",
+    "index.html": "/jeev-rakshak/index.html",
+    "precache-manifest.51d6599868fc7892dddce1323acad9d6.js": "/jeev-rakshak/precache-manifest.51d6599868fc7892dddce1323acad9d6.js",
+    "service-worker.js": "/jeev-rakshak/service-worker.js",
+    "static/css/2.e9c0e2c3.chunk.css.map": "/jeev-rakshak/static/css/2.e9c0e2c3.chunk.css.map",
+    "static/css/main.095347a0.chunk.css.map": "/jeev-rakshak/static/css/main.095347a0.chunk.css.map",
+    "static/js/2.a62c4bd9.chunk.js.LICENSE.txt": "/jeev-rakshak/static/js/2.a62c4bd9.chunk.js.LICENSE.txt",
+    "static/media/JeevRakshak.png": "/jeev-rakshak/static/media/JeevRakshak.554d3bd3.png",
+    "static/media/MobileNet.png": "/jeev-rakshak/static/media/MobileNet.2e1ac509.png",
+    "static/media/MobileNetSSD.png": "/jeev-rakshak/static/media/MobileNetSSD.c01704da.png",
+    "static/media/SSD.png": "/jeev-rakshak/static/media/SSD.26b4ca37.png",
+    "static/media/Species-Identification.png": "/jeev-rakshak/static/media/Species-Identification.41c8fe90.png",
+    "static/media/accuracy.png": "/jeev-rakshak/static/media/accuracy.e861cd63.png",
+    "static/media/animal-spotting.png": "/jeev-rakshak/static/media/animal-spotting.d4c12f35.png",
+    "static/media/ease-of-use.png": "/jeev-rakshak/static/media/ease-of-use.6e8e971b.png",
+    "static/media/keras.png": "/jeev-rakshak/static/media/keras.aba3531c.png",
+    "static/media/react.png": "/jeev-rakshak/static/media/react.e1099df7.png",
+    "static/media/styles.css": "/jeev-rakshak/static/media/revicons.2feb69cc.eot",
+    "static/media/saves-manual-labour.png": "/jeev-rakshak/static/media/saves-manual-labour.3b9f1aff.png",
+    "static/media/species-identification.png": "/jeev-rakshak/static/media/species-identification.0a166aba.png",
+    "static/media/tf.png": "/jeev-rakshak/static/media/tf.df661c75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2d25b1.js",
+    "static/css/2.e9c0e2c3.chunk.css",
+    "static/js/2.a62c4bd9.chunk.js",
+    "static/css/main.095347a0.chunk.css",
+    "static/js/main.652f3280.chunk.js"
+  ]
+}
